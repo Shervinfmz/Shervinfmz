@@ -69,33 +69,46 @@ Developed a real-time Morse code audio decoder using digital signal processing, 
 - Real-time Morse detection and decoding
 - Character-level N-gram language modelling
 
+## 🛠️ Technologies & Tools
 
-## 💻 Technical Skills
-
-**Programming**
+**Programming & Data**
 
 * Python
 * MATLAB
-* C++
+* C / C++
+* SQL
+* Pandas
+* NumPy
+* Jupyter Notebook
 
-**Engineering & Research**
+**Machine Learning**
 
-* Control Systems
-* Adaptive & Fuzzy Control
-* LQR
-* System Modeling & Simulation
-* Robotics
-* Power System Analysis
-* Load Flow Analysis
-* Numerical Optimization
-* Data Processing & Analysis
+* Scikit-learn
+* LightGBM
+* Random Forest
+* Feature Engineering
+* Time-Series Forecasting
 
-**Tools**
+**Signal Processing**
 
-* Git
 * MATLAB / Simulink
-* pandapower
-* Microsoft Excel
+* FFT
+* Butterworth Filtering
+* Hilbert Transform
+* Digital Signal Processing
+
+**Automation & Industrial Systems**
+
+* PLC / SCADA
+* Siemens Automation
+* Siemens SENTRON PAC4200
+* Industrial Data Acquisition & Monitoring
+
+**Software & Platforms**
+
+* Git / GitHub
+* SAP
+
 
 ## 🚀 Featured Projects
 
