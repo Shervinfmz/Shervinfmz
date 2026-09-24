@@ -22,6 +22,24 @@ My work focuses on combining **automation, data analysis, machine learning, robo
 - PLC / SCADA Systems
 - Process Instrumentation & Monitoring
 
+  ## 🚀 Featured Projects
+
+### 📈 [Electricity Load Forecasting](https://github.com/Shervinfmz/ddmo-sose-26-Team-Neura)
+
+**ENTSO-E + Weather Features + LightGBM**
+
+Developed a **24-hour German electricity-load forecasting pipeline** using historical energy data, weather information, and machine learning.
+
+**Highlights**
+
+* ENTSO-E electricity data
+* Weather and calendar features
+* Lag and time-series feature engineering
+* LightGBM forecasting
+* Backtesting and persistence benchmarking
+* 24-hour recursive forecasting
+
+
 ## 💻 Technical Skills
 
 **Programming**
