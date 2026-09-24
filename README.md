@@ -39,6 +39,20 @@ Developed a **24-hour German electricity-load forecasting pipeline** using histo
 * Backtesting and persistence benchmarking
 * 24-hour recursive forecasting
 
+### ⚡ [Non-Intrusive Load Monitoring](https://github.com/Shervinfmz/non-intrusive-load-monitoring)
+
+**Siemens SENTRON PAC4200 + Machine Learning**
+
+Developed a Non-Intrusive Load Monitoring system to identify individual appliances from aggregate electrical measurements.
+
+**Highlights**
+
+- Electrical data acquisition using Siemens SENTRON PAC4200
+- Feature engineering from active/reactive power, current, power factor, and transient behaviour
+- Random Forest appliance classification
+- Real-world appliance verification
+- Data visualization and monitoring pipeline
+
 ### 🔊 [Morse Code Audio Decoder](https://github.com/Shervinfmz/morse-code-decoder)
 
 **Python + DSP + Adaptive WPM Detection**
