@@ -11,6 +11,17 @@ My work focuses on combining **automation, data analysis, machine learning, robo
 * **M.Sc. Electrical Engineering – Control Systems** — Azad University Najafabad
 * **B.Sc. Electrical Engineering – Control Systems** — Azad University Najafabad
 
+## 🎯 Technical Interests
+
+- Machine Learning & Data-Driven Engineering
+- Robotics & Autonomous Systems
+- Signal Processing & Digital Signal Processing
+- Energy Monitoring & Load Forecasting
+- Industrial Automation & Control Systems
+- Industrial IoT (IIoT)
+- PLC / SCADA Systems
+- Process Instrumentation & Monitoring
+
 ## 💻 Technical Skills
 
 **Programming**
