@@ -22,7 +22,7 @@ My work focuses on combining **automation, data analysis, machine learning, robo
 - PLC / SCADA Systems
 - Process Instrumentation & Monitoring
 
-  ## 🚀 Featured Projects
+## 🚀 Featured Projects
 
 ### 📈 [Electricity Load Forecasting](https://github.com/Shervinfmz/ddmo-sose-26-Team-Neura)
 
