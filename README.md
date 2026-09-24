@@ -39,6 +39,22 @@ Developed a **24-hour German electricity-load forecasting pipeline** using histo
 * Backtesting and persistence benchmarking
 * 24-hour recursive forecasting
 
+### ⌜〰️⌟ Morse Code Audio Decoder
+
+**Python + DSP + Adaptive WPM Detection**
+
+Developed a real-time Morse code audio decoder using digital signal processing, adaptive timing analysis, and language modelling.
+
+**Highlights**
+
+- WAV/MP3 and microphone audio input
+- FFT-based carrier-frequency detection
+- Butterworth bandpass filtering
+- Hilbert-envelope signal processing
+- Adaptive WPM estimation
+- Real-time Morse detection and decoding
+- Character-level N-gram language modelling
+
 
 ## 💻 Technical Skills
 
