@@ -132,5 +132,5 @@ My previous research includes:
 
 ## 🌐 Connect with Me
 
-[LinkedIn](https://www.linkedin.com/in/shervin-faramarzi-4014a8287/)
+[LinkedIn](https://www.linkedin.com/in/shervin-faramarzi-4014a8287/)\\
 [GitHub](https://github.com/Shervinfmz)
