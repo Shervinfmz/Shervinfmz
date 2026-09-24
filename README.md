@@ -1,8 +1,9 @@
 # Hi, I'm Shervin Faramarzi Babadi 👋
 
-I'm an **Automation & Information Technology M.Sc. student at TH Köln** with a background in **Electrical Engineering, Control Systems, Data Analysis, and Robotics**.
+I'm currently pursuing an **M.Sc. in Automation & Information Technology at TH Köln**, with an academic background in **Electrical Engineering and Control Systems**.
 
-My interests include **Machine Learning, Artificial Intelligence, Robotics, Control Systems, Power Systems, and Data-Driven Engineering**.
+My work focuses on combining **automation, data analysis, machine learning, robotics, and intelligent control** to solve engineering problems.
+
 
 ## 🎓 Education
 
