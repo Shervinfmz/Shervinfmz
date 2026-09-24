@@ -13,14 +13,17 @@ My work focuses on combining **automation, data analysis, machine learning, robo
 
 ## 🎯 Technical Interests
 
-- Machine Learning & Data-Driven Engineering
-- Robotics & Autonomous Systems
-- Signal Processing & Digital Signal Processing
-- Energy Monitoring & Load Forecasting
-- Industrial Automation & Control Systems
-- Industrial IoT (IIoT)
-- PLC / SCADA Systems
-- Process Instrumentation & Monitoring
+* Machine Learning, Artificial Intelligence & Data-Driven Engineering
+* Robotics & Autonomous Systems
+* Human-Robot Collaboration
+* Adaptive & Intelligent Control
+* Signal Processing & Digital Signal Processing
+* Power System Analysis
+* Energy Monitoring & Load Forecasting
+* Industrial Automation & Control Systems
+* Industrial IoT (IIoT)
+* PLC / SCADA Systems
+* Process Instrumentation & Monitoring
 
 ## 🚀 Featured Projects
 
@@ -108,19 +111,6 @@ Developed a real-time Morse code audio decoder using digital signal processing, 
 * Git / GitHub
 * SAP
 
-
-## 🚀 Featured Projects
-
-### 🔊 Morse Code Decoder
-
-A real-time Morse code audio decoding system developed as a collaborative academic project at TH Köln.
-
-The project includes signal processing, carrier-frequency detection, Morse timing analysis, adaptive WPM estimation, text decoding, and language-model-based correction.
-
-### ⚡ Non-Intrusive Load Monitoring
-
-A project focused on analyzing aggregate electrical power consumption and identifying appliance-level energy usage using data-analysis and signal-processing techniques.
-
 ## 🔬 Research Interests
 
 * Machine Learning & Artificial Intelligence
@@ -139,8 +129,6 @@ My previous research includes:
 * Quadrotor trajectory tracking
 * SCARA robot modeling and control
 * LQR control of inverted pendulum systems
-* Power-system network simulation
-* Control-system design for safety-critical medical devices
 
 ## 🌐 Connect with Me
 
