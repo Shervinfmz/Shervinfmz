@@ -91,7 +91,6 @@ Developed a real-time Morse code audio decoder using digital signal processing, 
 
 **Signal Processing**
 
-* MATLAB / Simulink
 * FFT
 * Butterworth Filtering
 * Hilbert Transform
