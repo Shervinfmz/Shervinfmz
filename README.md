@@ -39,7 +39,7 @@ Developed a **24-hour German electricity-load forecasting pipeline** using histo
 * Backtesting and persistence benchmarking
 * 24-hour recursive forecasting
 
-### 🔊 Morse Code Audio Decoder
+### 🔊 [Morse Code Audio Decoder](https://github.com/Shervinfmz/morse-code-decoder)
 
 **Python + DSP + Adaptive WPM Detection**
 
